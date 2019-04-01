@@ -42,16 +42,16 @@ margin-right: auto;
 	
 } 
 a:link {
-  color: #45F7A6;
+  color: #40F9B7;
 }
 
 a:visited {
-  color: #45F7A6;
+  color: #4AECD0;
 }
 
 a:hover {
   color: red;
-	background-color: #F138DF;
+	background-color: #EFF36D;
 }
 
 a:active {
