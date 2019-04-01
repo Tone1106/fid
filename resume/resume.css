@@ -89,10 +89,7 @@ div.desc {
 	color:black;
 }
 
-.side{
-	height: 100px;
-	width: 100px;
-}
+
 .side-image-left, .side-image-right {
     position: absolute;
     top: 100px;
