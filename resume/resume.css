@@ -41,13 +41,23 @@ ol {
 margin-right: auto;
 	
 } 
-a:hover { 
-  background-color: yellow;
-	
-}
 a:link {
-  color: whitesmoke;
+  color: green;
 }
+
+a:visited {
+  color: #11EFEB;
+}
+
+a:hover {
+  color: red;
+	background-color: azure;
+}
+
+a:active {
+  color: yellow;
+}
+
 div.gallery {
   margin: 5px;
   border: 1px solid #ccc;
