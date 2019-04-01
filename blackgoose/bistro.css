@@ -5,11 +5,12 @@
   body {
     background-color: #FFFFE0;
     margin: 0 10%;
-	font-family: Georgia, "Times New Roman", Times, serif;
+	font-family: 'ZCOOL XiaoWei', serif;
+	  align-content: center;
 }
   h1 {
     text-align: center;
-    font-family: serif;
+    
     font-weight: normal;
     text-transform: uppercase;
     border-bottom: 1px solid #57b1dc;
@@ -18,10 +19,34 @@
   h2 {
     color:#d1633c;
     font-size: 1.5em;
+	  
 }
 small {
 	color: #999;
 }
 img {
 	height:300;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
 }
