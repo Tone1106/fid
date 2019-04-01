@@ -3,9 +3,10 @@
 
 
 body {
-  background-color: #cdd7f7;
+  background-image: url("images/background.jpg");
+	background-repeat: no-repeat;
   margin: 0 10%;
-  font-family: sans-serif;
+  font-family: 'Libre Baskerville', serif;
   text-align: center;
   }
 
@@ -14,12 +15,13 @@ h1 {
   font-family: serif;
   font-weight: normal;
   text-transform: uppercase;
-  border-bottom: 1px solid #white;
+  border-bottom: 1px solid white;
   margin-top: 30px;
+	color: white;
 }
 
 h2 {
-  color: #108292;
+  color: white;
   font-size: 1em;
 }
 ul {
@@ -27,4 +29,41 @@ ul {
 }
 ol {
   list-style-type: none;
+}
+
+.boxed {
+  border: 1px solid green ;
+	background-color: whitesmoke;
+	width: 50%;
+	align-content: center;
+	margin-: auto;
+	
+} 
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+	background-color: whitesmoke;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+	background-color: whitesmoke;
+}
+#header{
+	color: black;
+}
+.color{
+	color:black;
 }
