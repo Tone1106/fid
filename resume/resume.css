@@ -42,11 +42,11 @@ margin-right: auto;
 	
 } 
 a:link {
-  color: green;
+  color: #45F7A6;
 }
 
 a:visited {
-  color: #EF32E2;
+  color: #45F7A6;
 }
 
 a:hover {
