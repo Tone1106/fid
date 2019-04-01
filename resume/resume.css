@@ -86,3 +86,17 @@ div.desc {
 .color{
 	color:black;
 }
+
+img {
+	 width: 100px;
+    height: 100px;
+}
+.side-image-left, .side-image-right {
+    position: absolute;
+    top: 100px;
+   
+}
+.side-image-right {
+    right: 0;
+	margin-right: 120px;
+}
