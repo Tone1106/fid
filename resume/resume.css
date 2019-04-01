@@ -57,10 +57,7 @@ a:hover {
 a:active {
   color: yellow;
 }
-img {
-	width: 100px;
-	height: 100px;
-}
+
 
 div.gallery {
   margin: 5px;
@@ -106,4 +103,8 @@ div.desc {
 .side-image-right {
     right: 0;
 	margin-right: 120px;
+}
+img {
+	width: 100px;
+	height: 100px;
 }
