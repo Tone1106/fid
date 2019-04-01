@@ -25,6 +25,10 @@ h2 {
   color: white;
   font-size: 2em;
 }
+h2 {
+  color: black;
+  font-size: 2em;
+}
 ul {
   list-style-type: none;
 }
@@ -82,9 +86,7 @@ div.desc {
   text-align: center;
 	background-color: whitesmoke;
 }
-#header{
-	color: black;
-}
+
 .color{
 	color:black;
 }
