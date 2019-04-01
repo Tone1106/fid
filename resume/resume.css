@@ -46,12 +46,12 @@ a:link {
 }
 
 a:visited {
-  color: #11EFEB;
+  color: #45F7A6;
 }
 
 a:hover {
   color: red;
-	background-color: azure;
+	background-color: #F138DF;
 }
 
 a:active {
