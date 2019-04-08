@@ -43,6 +43,8 @@ ol {
 	align-content: center;
 	margin-left: auto;
 margin-right: auto;
+	border-color: rgba(197,23,142,1.00);
+	
 	
 } 
 a:link {
@@ -94,12 +96,12 @@ div.gallery img {
 
 .side-image-left, .side-image-right {
     position: absolute;
-    top: 100px;
+    top: 200px;
 	height: 100px;
 	width: 100px;
    
 }
 .side-image-right {
     right: 0;
-	margin-right: 120px;
+	margin-right: 250px;
 }
